@@ -1,5 +1,5 @@
-<a href="/Mumin">Main</a>
-<a href="/Mumin/privacy">Privacy Policy</a>
+<a href="/Mumin">Main</a> | 
+<a href="/Mumin/privacy">Privacy Policy</a> | 
 <a href="/Mumin/contact">Contact Us</a>
 
 # Mu'min
