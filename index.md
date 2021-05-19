@@ -1,3 +1,7 @@
+<a src"/Mumin">Main</a>
+<a src"/Mumin/privacy">Privacy Policy</a>
+<a src"/Mumin/contact">Contact Us</a>
+
 # Mu'min
 
 ## Overview
