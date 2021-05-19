@@ -5,4 +5,9 @@ This document details how your personal information is handled by Mu'min
 
 
 ## Mu'min Does Not Collect Any Infromation About Its Users
-All calculations required for Prayer Times and Qibla are done within the app. While a location (manually entered or automatically detected) is required for these, the location itself stays within the app and is not visible to us.
+All calculations required for Prayer Times and Qibla are done within the app. While a location (manually entered by user or automatically detected) is required for these, the location itself stays within the app and is not visible to us.
+
+User settings and preferences like favoutite Duas are only stored locally on the user's device.
+
+## Contact
+For any questions regarting this Privacy Policy, please contact muhammadahmad1220@icloud.com
