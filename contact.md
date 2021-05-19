@@ -5,7 +5,9 @@
             <form action="https://formspree.io/f/mqkwpnqz" method="POST">
             <input type="hidden" name="_subject" value="Contact request from Github" />
             <input type="email" name="_replyto" placeholder="Your email" required>
+            <br>
             <textarea name="message" placeholder="Type your message" required></textarea>
+            <br>
             <button type="submit">Send</button>
         </form>
     </div>
