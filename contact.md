@@ -1,3 +1,12 @@
 # Contact Us
 
-[muhammadahmad1220@icloud.com](mailto:muhammadahmad1220@icloud.com)
+<div id="contact">
+    <div id="contact-form">
+            <form action="https://formspree.io/f/mqkwpnqz" method="POST">
+            <input type="hidden" name="_subject" value="Contact request from Github" />
+            <input type="email" name="_replyto" placeholder="Your email" required>
+            <textarea name="message" placeholder="Type your message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+</div>
