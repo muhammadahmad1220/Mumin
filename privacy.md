@@ -10,4 +10,4 @@ All calculations required for Prayer Times and Qibla are done within the app. Wh
 User settings and preferences like favoutite Duas are only stored locally on the user's device.
 
 ## Contact
-For any questions regarting this Privacy Policy, please contact muhammadahmad1220@icloud.com
+For any questions regarting this Privacy Policy, please contact [muhammadahmad1220@icloud.com](muhammadahmad1220@icloud.com)
